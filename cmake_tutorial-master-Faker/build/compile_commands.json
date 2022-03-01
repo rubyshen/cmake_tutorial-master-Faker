@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/dynlib",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe -Ddynlib_EXPORTS  -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\dynlib.dir\\dynlib.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\cmake_tutorial-master-Faker\\samples\\dynlib\\dynlib.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/samples/dynlib/dynlib.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/slib",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\slib.dir\\slib.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\cmake_tutorial-master-Faker\\samples\\slib\\slib.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/samples/slib/slib.cpp"
+},
+{
+  "directory": "C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/helloworld",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/helloworld.dir/includes_CXX.rsp -g -std=c++14 -g -Wall -pthread -m64 -o CMakeFiles\\helloworld.dir\\helloworld.cpp.obj -c C:\\Users\\gq\\Desktop\\Faker\\cmake_tutorial-master-Faker\\samples\\helloworld\\helloworld.cpp",
+  "file": "C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/samples/helloworld/helloworld.cpp"
+}
+]

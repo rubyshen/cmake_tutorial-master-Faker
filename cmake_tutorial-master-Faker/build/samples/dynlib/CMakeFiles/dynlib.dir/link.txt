@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\dynlib.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\dynlib.dir/objects.a @CMakeFiles\dynlib.dir\objects1.rsp
+C:\TDM-GCC-64\bin\x86_64-w64-mingw32-g++.exe -g -std=c++14 -g -Wall -pthread -m64 -shared -o ..\..\..\bin\Windows_64_Debug\libdynlib.dll -Wl,--out-implib,..\..\..\bin\Windows_64_Debug\libdynlib.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\dynlib.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\dynlib.dir\linklibs.rsp

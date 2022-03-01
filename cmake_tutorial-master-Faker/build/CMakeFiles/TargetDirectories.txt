@@ -1,0 +1,13 @@
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/CMakeFiles/edit_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/CMakeFiles/rebuild_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/CMakeFiles/edit_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/CMakeFiles/rebuild_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/dynlib/CMakeFiles/dynlib.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/dynlib/CMakeFiles/edit_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/dynlib/CMakeFiles/rebuild_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/slib/CMakeFiles/slib.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/slib/CMakeFiles/edit_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/slib/CMakeFiles/rebuild_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/helloworld/CMakeFiles/helloworld.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/helloworld/CMakeFiles/edit_cache.dir
+C:/Users/gq/Desktop/Faker/cmake_tutorial-master-Faker/build/samples/helloworld/CMakeFiles/rebuild_cache.dir
